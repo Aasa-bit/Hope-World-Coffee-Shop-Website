@@ -24,4 +24,4 @@ A responsive coffee shop website for **Hope World**, showcasing the brand identi
 1. Upload the project files (`index.html`, `css/`, `js/`, and `imgs/`) to the root of a public GitHub repository.
 2. Navigate to **Settings** > **Pages** in your repository.
 3. Under **Build and deployment**, select **Deploy from a branch**, choose the `main` branch and `/ (root)` folder, and click **Save**.
-4. Wait a couple of minutes for GitHub Pages to build and publish your live URL.[cite: 1]
+4. Wait a couple of minutes for GitHub Pages to build and publish your live URL.
